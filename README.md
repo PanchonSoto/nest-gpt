@@ -35,6 +35,10 @@ $ npm install
 ## Running the app
 
 ```bash
+
+# API KEYS
+$ Clone the .env.template to .env with your own API KEYS
+
 # development
 $ npm run start
 
