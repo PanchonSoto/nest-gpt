@@ -1,4 +1,4 @@
 
 
 
-export * from './orthograpy.use-case';
+export * from './orthography.use-case';
